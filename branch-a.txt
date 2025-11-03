@@ -1,1 +1,2 @@
 It is from the branch-a.
+Editing from the branch-b so that conflict can be created.
