@@ -3,3 +3,4 @@ Editing from the branch-b so that conflict can be created.
 Now adding some extra lines.
 
 Creating merge from branch-b
+Creating merge conflict in the remote repo
